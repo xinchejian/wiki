@@ -1,4 +1,4 @@
-Xinchejian Staff Meeting 2021-10-02
+Xinchejian Staff Meeting 2021-10-12
 =========
 
 Attendants: Tien, Leyis, Robin, John, Jiji (online), Changbai (online), Ronghao (guest)
