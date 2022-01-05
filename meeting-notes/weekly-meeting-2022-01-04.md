@@ -5,19 +5,25 @@
 # 宣传
 
 tien 文案 campaign
+
 leyis 出推送
 
 ## 工具设备指南
 
 Changbai laser cutter
+
 Tien 3D printer
 
 # timeline
 
 3:00 pm free viewing
+
 5:00 pm BBQ available
+
 5:00, 6:00, 7:00 Tour of the space
+
 7:00 pm light fire outside
+
 8:00 pm Xinchejam
 
 ## Food & Beverage
@@ -25,11 +31,13 @@ Tien 3D printer
 ### Alcohol
 
 TODO: Find craft beer provider
+
 Changbai: ask Ted
 
 ### Soft Drinks
 
 TODO: find club mate provider 
+
 TODO: buy soft drinks 小澜
 
 锡罐装的卡瓦斯
@@ -43,6 +51,7 @@ TODO: buy soft drinks 小澜
 ## BBQ
 
 BBQ and hot dog. Sell them.
+
 TODO: arrange food
 
 ## Events
