@@ -60,3 +60,4 @@ TODO: make Xinchejian souvenir. In 10 days?
 - Dangdang
 - Julian
 
+TODO: Robin to set up audio-sensitive stage light 
