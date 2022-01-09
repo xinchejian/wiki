@@ -2,7 +2,7 @@
 
 1/15
 
-# 宣传
+## 宣传
 
 tien 文案 campaign
 
@@ -14,7 +14,7 @@ Changbai laser cutter
 
 Tien 3D printer
 
-# timeline
+## timeline
 
 3:00 pm free viewing
 
@@ -70,3 +70,25 @@ TODO: make Xinchejian souvenir. In 10 days?
 - Julian
 
 TODO: Robin to set up audio-sensitive stage light 
+
+
+
+# 微信公众号
+
+## 菜单更新 TO-DO LIST
+
+以下菜单按从左到右，从上到下的顺序排列
+
+- EVENT，自动回复新一批活动推送
+  - [ ] 制作开业派对推送
+- PROJECT - 图文消息，自动回复最新一批项目介绍推送
+  - [ ] 制作新加速项目征集推送
+- ABOUT - 上拉列表
+  - 是什么？- 图文消息，自动回复新车间介绍
+    - [ ] 制作新车间介绍文章
+  - 在哪儿？- 图片，自动回复新车间地图
+    - [ ] 制作新车间地图
+  - 怎么用？ - 图文消息，自动回复空间说明书
+    - [ ] 制作3D打印机、激光切割机使用说明文章
+  - 充会员！ - 小程序消息
+    - [ ] 调用小程序，发送会员充值链接
