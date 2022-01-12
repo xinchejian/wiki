@@ -38,7 +38,12 @@ TODO: 12号必须出推送 & 公布宣传。
 
 # 排班表
 
-TODO: CHANGBAI MAKE A FORM
+- [x] CHANGBAI MAKE A FORM
+
+[排班入口](https://whenisgood.net/9r2yiii)
+
+[排班结果](https://whenisgood.net/9r2yiii/results/3kdis9m)
+
 
 # 捐款装置
 
