@@ -85,5 +85,6 @@ Siyu有兴趣！
 - Ronghao: connect with Tempe to set up the workshop
 - John: Sit the space; Visit the neighborhood @ Dingxi Road this Thursday.
 - Leyis: Write recap; Visit the neighborhood @ Dingxi Road this Thursday.
-- Changbai, James: Prepare online open night w/ Julian
+- Changbai： Prepare online open night w/ Julian, connect Ronghao with Tempe
+- James: Prepare online open night w/ Julian
 
