@@ -80,7 +80,7 @@ TODO: Robin to set up audio-sensitive stage light
 以下菜单按从左到右，从上到下的顺序排列
 
 - EVENT，自动回复新一批活动推送
-  - [ ] 制作开业派对推送
+  - [x] 制作开业派对推送
 - PROJECT - 图文消息，自动回复最新一批项目介绍推送
   - [ ] 制作新加速项目征集推送
 - ABOUT - 上拉列表
@@ -91,4 +91,4 @@ TODO: Robin to set up audio-sensitive stage light
   - 怎么用？ - 图文消息，自动回复空间说明书
     - [ ] 制作3D打印机、激光切割机使用说明文章
   - 充会员！ - 小程序消息
-    - [ ] 调用小程序，发送会员充值链接
+    - [x] 调用小程序，发送会员充值链接
