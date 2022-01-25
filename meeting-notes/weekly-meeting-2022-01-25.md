@@ -7,7 +7,7 @@ Attendee: Nelson, Changbai, Sasha, Ronghao, Leyis, Robin, John
 
 > Ronghao: connect with Tempe to set up the workshop
 
-## PCB Workshop
+### PCB Workshop
 
 Tempe finished the form. 
 Workshop: 1/29, 2pm - 5pm. Too soon!
@@ -26,17 +26,17 @@ TODO: @Ronghao and @Leyis write post, due Friday
 > John: Sit the space; Visit the neighborhood @ Dingxi Road this Thursday.
 > Leyis: Write recap; Visit the neighborhood @ Dingxi Road this Thursday.
 
-## Dingxi Road visit
+### Dingxi Road visit
 
 Moved to after lunar new year.
 
-## Party Recap
+### Party Recap
 
 Need to write.
 
 > Changbai： Prepare online open night w/ Julian, connect Ronghao with Tempe
 
-## Open Night
+### Open Night
 
 Changbai Will start pushing tomorrow with Julian.
 
@@ -46,9 +46,8 @@ If they don't sell tickets via Xinchejian, flat rate 1000/hr.
 
 # TODO
 
-Ronghao: Tempe workshop; bring keyboard; write Tempe workshop post
-Leyis: Write recap with Dangdang; make Tempe workshop poster
-Robin: 
-John: Get event rental rate from this building. Do dirty jobs.
-Changbai: Online open night; advertise for Jam night
+- Ronghao: Tempe workshop; bring keyboard; write Tempe workshop post
+- Leyis: Write recap with Dangdang; make Tempe workshop poster
+- John: Get event rental rate from this building. Do dirty jobs.
+- Changbai: Online open night; advertise for Jam night
 
