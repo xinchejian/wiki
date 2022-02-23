@@ -9,6 +9,8 @@ Attendee: Nelson, Changbai, Tien, James, Jiji, Leyis, Dangdang, John, Ronghao, R
 
 We move the artworks out to the front.
 
+TODO: :question: When to do the cleanup?
+
 ## How to use Dingxi?
 
 Use it as a free venue for events.
@@ -49,13 +51,13 @@ TODO @tien Ask Tempe about doing a recap / open night for this series of worksho
 
 need article tmr
 
-TODO： 测试Twitch & 微信直播的可行性
+TODO： 测试Twitch & 微信直播的可行性。  :question: who can do this?
 
 3.9 offline open night. or maybe 3.23
 
 What to share? PCB & electronics. Tempe's workshop result, and RDZ's stuff.
 
-TODO: call for speakers 
+TODO: publish a call for speakers.  :question: who can do this?
 
 # Siyu space manager
 
