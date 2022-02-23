@@ -41,7 +41,7 @@ Article: Done
 
 Yoopay: @leyis
 
-Leyis needs to give nelson a list of participants.
+TODO: Prior to the workshop, Leyis needs to give nelson a list of signups from Yoopay.
 
 ## Prepare for workshop recap
 
