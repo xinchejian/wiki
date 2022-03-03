@@ -25,9 +25,9 @@ Online: Jiji, Ronghao, Julian
 - [x] Article for a call for speakers
 - [x] Better projector
   - [ ] TODO:明天下午, Tien 去Ronghao家里拿投影仪
-  - [ ] TODO:@Changbai check projector issue
-- [ ] @Changbai Test Wechat Live Broadcast
-  - [ ] TODO:测试  现场要支一个手机做直播
+  - [x] TODO:@Changbai checked projector issue. Working on a fix.
+- [x] @Changbai Test Wechat Live Broadcast
+  - [x] TODO:测试  现场要支一个手机做直播
   - **What's the goal of live broadcast? - Involve more people, publicize XCJ.**
   - **What's the next step? - Collect audience feedback, and see if the goal can be met.** 
 
