@@ -15,6 +15,10 @@
 
 Dremel的软件和打印机还是比较人性的，基本按照上面的说明就可顺畅使用。
 
+## Model Library/模型库
+
+- Thingiverse: https://www.thingiverse.com/
+
 # FAQ
 
 ## 底盘翘起来了
