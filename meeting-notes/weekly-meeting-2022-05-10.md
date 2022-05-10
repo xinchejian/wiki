@@ -28,10 +28,10 @@ Agenda
 ## Dingxi tasks
 
 @dangdang to keep pushing
+
 @changbai to finish the list
 
 ## 招聘信息的管制
-
 
 想发招聘信息的话需要联系staff，我们审核认为对社区有益后再从我们的微信账号发出来。
 
