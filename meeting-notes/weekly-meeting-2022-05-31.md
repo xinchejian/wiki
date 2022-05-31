@@ -13,7 +13,7 @@ Attendee: Changbai, Tien, Ronghao, Robin, Leyis
 
 # 聚餐
 
-看当当！以及希望可以把这次聚餐open给我们之外的社区成员，线下空间如果能开的话可以办次potluck。
+看当当！以及希望可以把这次聚餐open给我们之外的社区成员，线下空间如果能开的话可以办次potluck。"Another Housewarming Party"
 
 # 重开线下空间
 
