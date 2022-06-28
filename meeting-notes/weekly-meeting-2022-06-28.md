@@ -49,5 +49,5 @@ Possible Contributions:
 
 Many materials onsite can be reutilized. (cannon, cart...)
 
-TODO - @changbai to make a Notion doc. 
+TODO - @changbai to make a Notion doc. @everyone add ideas and theme suggestions to it.
 
