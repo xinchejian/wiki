@@ -47,3 +47,5 @@ John被封锁了,不方便7.7过去
 ## Summer School
 
 Sasha's school - see if she's interested.
+
+小孩子暑假都还是在上海的。
