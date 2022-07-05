@@ -35,9 +35,9 @@ John被封锁了,不方便7.7过去
 7/6: 聊天室
 
 7/13: 主题：maker们不上班的时候都在做什么
-	- maker在怎么斜杠。探索这种反差感。
-	- 最后整理成文章也很有趣。
-	- @dangdang 想做更多marketing的东西，需要我们提供内容。
+- maker在怎么斜杠。探索这种反差感。
+- 最后整理成文章也很有趣。
+- @dangdang 想做更多marketing的东西，需要我们提供内容。
 
 ## The Disneyland of Makers制造计划
 
