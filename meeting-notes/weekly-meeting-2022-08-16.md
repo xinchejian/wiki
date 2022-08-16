@@ -73,7 +73,7 @@ Ticket: 100. Changbai to set up
 
 估计9/10月
 
-![../assets/Pasted image 20220809220122.png]
+<img width="304" alt="Pasted image 20220809220122" src="https://user-images.githubusercontent.com/3478059/184830361-4a22df55-78fe-4695-817c-908203c4447e.png">
 
 新车间的人从这边新的门进，动线分开来。
 
