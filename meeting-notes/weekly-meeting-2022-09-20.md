@@ -7,6 +7,7 @@ Attendee: John, Dangdang, Changbai, Jiji
 9.27 周二的晚上
 - 一小时采访
 - 准备一些展示的项目：tempe的电子琴，Robin的灯光
+- changbai 去cosplay一下程序员
 - John是主访人
 
 ## 大鱼
