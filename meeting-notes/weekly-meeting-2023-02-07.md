@@ -1,4 +1,4 @@
-Attendee: JianJian, Ronghao(online), Leyis, John， Changbai(John)
+Attendee: JianJian, Ronghao(online), Leyis, John， Changbai(online), dangdang(online)
 
 # Agenda
 - DIIS
