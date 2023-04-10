@@ -1,6 +1,8 @@
 3D Printer Guide
 =======
 
+# Dremel Digilab 3D45
+
 ## Documents/使用文档
 
 - FAQs/常见问题：https://us.dremel.com/digilab/sites/default/files/3d%20faqs.pdf
@@ -9,7 +11,7 @@
 
 ## Slicer/切片软件
 
-- 切片软件下载：https://www.dremel.com/gn/en/digilab/software
+- 切片软件下载：[地址1](https://www.dremel.com/gn/en/digilab/software) [地址2](https://3pitech.com/pages/desktop-slicer-software)
 - Windows/Mac切片教程：https://3pitech.com/pages/desktop-slicer-software
 - 云端切片教程：https://3pitech.com/pages/cloud-slicer-software
 
