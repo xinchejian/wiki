@@ -3,7 +3,9 @@ Attendee: Ronghao, John, Changbai, Robin, Leyis, Julian
 # 木工坊结算
 
 收入合计`359*8=2872`
+
 材料成本`890`(戎豪采购)
+
 导师收入`(2872-890)/2=991`
 
 # Tempe workshop
@@ -12,14 +14,14 @@ Attendee: Ronghao, John, Changbai, Robin, Leyis, Julian
 
 https://mp.weixin.qq.com/s/vPtJJq0S2BPTZR8dBKLoOg 上次的推文
 
-这次会多一个小时(4小时)
+这次会多一个小时(4小时)。
 然后会员和非会员的门票，需要小程序上区分下。
 
 # XCJ @ Makerfaire
 
-6.2 搭台子
-6.3 下午 changbai
-6.4 ronghao, robin, (john)
+- 6.2 搭台子
+- 6.3 下午 changbai
+- 6.4 ronghao, robin, (john)
 
 # 6.5 世界环境日开放夜
 
