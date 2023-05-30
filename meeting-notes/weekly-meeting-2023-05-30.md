@@ -14,7 +14,7 @@ Attendee: Ronghao, John, Changbai, Robin, Leyis, Julian
 
 https://mp.weixin.qq.com/s/vPtJJq0S2BPTZR8dBKLoOg 上次的推文
 
-这次会多一个小时(4小时)。
+这次会多半个小时(3.5小时)。
 然后会员和非会员的门票，需要小程序上区分下。
 
 # XCJ @ Makerfaire
