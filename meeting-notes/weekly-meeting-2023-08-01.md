@@ -19,3 +19,7 @@ Attendee: Deyi, Leyis, Ronghao, Changbai, Jiji, Tien (online), Julian (online), 
 # 新车间自媒体计划
 
 - 注意标记出处 & 小心发布频率过高会被小红书限制
+
+# UCCA
+
+- UCCA驻地项目艺术家来新车间，赞助形式或团体会员加入，跟进中(leyis)
