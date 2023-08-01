@@ -18,4 +18,4 @@ Attendee: Deyi, Leyis, Ronghao, Changbai, Jiji, Tien (online), Julian (online), 
 
 # 新车间自媒体计划
 
-- 注意标记出处 & 小心发布内容过多导致被限制
+- 注意标记出处 & 小心发布频率过高会被小红书限制
