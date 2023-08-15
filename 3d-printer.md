@@ -20,6 +20,8 @@ Dremel的软件和打印机还是比较人性的，基本按照上面的说明�
 ## Model Library/模型库
 
 - Thingiverse: https://www.thingiverse.com/
+- Printables https://www.printables.com/
+- SketchFab the british museum https://sketchfab.com/britishmuseum
 
 # FAQ
 
