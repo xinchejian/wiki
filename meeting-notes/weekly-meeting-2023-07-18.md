@@ -18,7 +18,7 @@ Attendee: Leyis, Ronghao, Jiji, Dangdang(online), Tien(online), Deyi (online), R
 # DIISx新车间7/13会议总结
 - 重点推进：Staff 推荐企业/团体的负责人给DIIS，并预安排楼内导览 ;
 - 推荐方式：OpenNight等活动前现场推荐，或拉群推荐
-- 
+
 # 赞助商合作推进（俞简推荐）
 - 线材赞助：Polymaker，展架*2已到场，待布置。3D打印样品表单选取已提交。
 - 3D打印设备赞助：Raise复志，已确认捐E2型号3D打印机。
