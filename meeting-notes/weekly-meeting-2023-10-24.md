@@ -1,7 +1,6 @@
 Attendee: Robin, Ronghao, Leyis, Deyi, Andrew, Dangdang(Online)
 
 # Agenda
-
 - DigiShow工作坊
 - MakerFaire
 - 3D打印工作坊
