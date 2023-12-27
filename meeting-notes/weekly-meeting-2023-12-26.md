@@ -6,7 +6,8 @@ Attendee: Ronghao, Leyis, Robin, Deyi， Andrew（Online）， DangDang, Julian(
 - 全球创客空间海报展
 - RepairShop可持续市集
 - 与上海开源协会共同举办年会
-- 唱白开放夜
+- 唱白AI安全开放夜
+- Julian无障碍主题开放夜
 
 
 
@@ -43,6 +44,6 @@ RepairShop可持续市集由楼上的Simon举办，活动日期在1月19～21日
 # 唱白AI安全开放夜
 唱白想在开放夜上讲一下关于人类在控制超级智能方面面临的安全问题，1月3日举办。
 
-# Julian开放夜
+# Julian无障碍主题开放夜
 Julian希望在1月17日，举办无障碍主题开放夜，由原Hackability（以满足残章人士需求为目标的hackthon），手摇中国（残障人士用手摇车游历中国），NYU上海的教授（Noel Joyce，身障人士专用山地车自行车，待定），三方共同参与分享。
 
