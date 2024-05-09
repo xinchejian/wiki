@@ -1,4 +1,4 @@
-Attendee: Ronghao, Leyis, Andrew（Online）, Dounan
+Attendee: Ronghao, Leyis, Andrew（Online）
 
 # Agenda
 
